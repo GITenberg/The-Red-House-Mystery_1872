@@ -1,0 +1,35 @@
+_repo: The-Red-House-Mystery_1872
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Milne, Alan Alexander
+    - Miln, Alen Aleksander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: http://en.wikipedia.org/wiki/A._A._Milne
+description: "The Red House Mystery is a \"locked room\" whodunnit by A. A. Milne,\
+  \ published in 1922. It was Milne's only mystery novel.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1872'
+  wikidata: Q7759881
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: The Red House Mystery
+url: http://www.gutenberg.org/ebooks/1872
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Red_House_Mystery
+- https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%84%E9%A4%A8%E3%81%AE%E7%A7%98%E5%AF%86
