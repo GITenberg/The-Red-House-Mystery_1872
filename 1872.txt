@@ -12,7 +12,7 @@ Author: A. A. Milne
 
 Posting Date: November 6, 2008 [EBook #1872]
 Release Date: August, 1999
-Last Updated: January 14, 2013
+Last Updated: Septemeber 23, 2015
 
 Language: English
 
@@ -2261,7 +2261,7 @@ think of Mark? Seeing his hesitation, Antony said:
 "I ought to have warned you that nothing that you say will be taken down
 by the reporters, so you needn't bother about a split infinitive or two.
 Talk about anything you like, how you like. Well, I'll give you a start.
-Which do you enjoy more a week-end here or at the Barrington's, say?"
+Which do you enjoy more, a week-end here or at the Barrington's, say?"
 
 "Well; of course, that would depend--"
 
@@ -2369,7 +2369,7 @@ you know the bowling-green?"
 
 "This morning?"
 
-"Oh, no. He got over it he generally does. He's just like a child.
+"Oh, no. He got over it--he generally does. He's just like a child.
 That's really it, Tony; he's like a child in some ways. As a matter of
 fact, he was unusually bucked with himself this morning. And yesterday."
 
@@ -2416,7 +2416,7 @@ They had left the open land and were following a path through the
 bordering trees. Two abreast was uncomfortable, so Antony dropped
 behind, and further conversation was postponed until they were outside
 the boundary fence and in the high road. The road sloped gently down to
-the village of Waldheim a few red-roofed cottages, and the grey tower of
+the village of Waldheim--a few red-roofed cottages, and the grey tower of
 a church showing above the green.
 
 "Well, now," said Antony, as they stepped out more quickly, "what about
@@ -2464,7 +2464,7 @@ enough, Cayley seemed lost without Mark."
 
 "Yes, I should say so. In a protective kind of way. He'd sized Mark up,
 of course his vanity, his self-importance, his amateurishness and all
-the rest of it but he liked looking after him. And he knew how to manage
+the rest of it, but he liked looking after him. And he knew how to manage
 him."
 
 "Yes.... What sort of terms was he on with the guests--you and Miss
@@ -2490,7 +2490,7 @@ losing a guest so suddenly, partly in case he found it undesirable later
 on to remain at the Red House. For he was taking himself seriously as a
 detective; indeed, he took himself seriously (while getting all the fun
 out of it which was possible) at every new profession he adopted; and he
-felt that there might come a time after the inquest, say when he could
+felt that there might come a time--after the inquest--say when he could
 not decently remain at the Red House as a guest, a friend of Bill's,
 enjoying the hospitality of Mark or Cayley, whichever was to be regarded
 as his host, without forfeiting his independent attitude towards the
@@ -2530,7 +2530,7 @@ seat next to the chauffeur, and they drove back.
 CHAPTER VIII. "Do You Follow Me, Watson?"
 
 
-Anthony's bedroom looked over the park at the back of the house. The
+Antony's bedroom looked over the park at the back of the house. The
 blinds were not yet drawn while he was changing his clothes for dinner,
 and at various stages of undress he would pause and gaze out of the
 window, sometimes smiling to himself, sometimes frowning, as he turned
@@ -2680,7 +2680,7 @@ bowls?"
 
 "In a sort of summer house place. Round here."
 
-They walked along the edge of the green until they came to it a low
+They walked along the edge of the green until they came to it--a low
 wooden bunk which had been built into one wall of the ditch.
 
 "H'm. Jolly view."
@@ -2704,7 +2704,7 @@ his mouth and turned to his friend.
 "Do-you-follow-me-Watson; that one. Are you prepared to have quite
 obvious things explained to you, to ask futile questions, to give me
 chances of scoring off you, to make brilliant discoveries of your own
-two or three days after I have made them myself all that kind of thing?
+two or three days after I have made them myself--all that kind of thing?
 Because it all helps."
 
 "My dear Tony," said Bill delightedly, "need you ask?" Antony said
@@ -2750,11 +2750,11 @@ he felt it his duty to say that he did want to know how many they were.
 
 He closed his eyes.
 
-"I'm walking up St James' Street," he said slowly. "Now I've come to the
-club and I'm going past the smoking-room--windows-one-two three
-four. Now I'm at the steps. I turn in and begin going up them.
+"I'm walking up St. James' Street," he said slowly. "Now I've come to the
+club and I'm going past the smoking-room--windows-one-two-three-four.
+Now I'm at the steps. I turn in and begin going up them.
 One-two-three-four-five-six, then a broad step; six-seven-eight-nine,
-another broad step; nine-ten-eleven. Eleven I'm inside. Good morning,
+another broad step; nine-ten-eleven. Eleven--I'm inside. Good morning,
 Rogers. Fine day again." With a little start he opened his eyes and came
 back again to his present surroundings. He turned to Bill with a smile.
 "Eleven," he said. "Count them the next time you're there. Eleven and
@@ -3115,7 +3115,7 @@ green, and on the outside of the ditch. The most obvious place at which
 to begin the search was the shed where the bowls were kept. It was a
 tidy place as anything in Mark's establishment would be. There were two
 boxes of croquet things, one of them with the lid open, as if the
-balls and mallets and, hoops (neatly enough put away, though) had been
+balls and mallets and hoops (neatly enough put away, though) had been
 recently used; a box of bowls, a small lawn-mower, a roller and so
 forth. A seat ran along the back of it, whereon the bowls-players could
 sit when it rained.
@@ -3211,7 +3211,7 @@ guessed, this and had tried to give his cousin a chance of getting away.
 
 "Mind you, I think he's right. I think it's what any of us would do. I
 shan't give it away, of course, but somehow there are one or two little
-things which make me think that Mark really did shoot his brother I mean
+things which make me think that Mark really did shoot his brother--I mean
 other than accidentally."
 
 "Murdered him?"
@@ -3344,7 +3344,7 @@ house, to Antony. He wanted to think. There seemed to be no doubt now
 that Cayley was a villain. Bill had never been familiar with a villain
 before. It didn't seem quite fair of Cayley, somehow; he was taking
 rather a mean advantage of his friends. Lot of funny people there were
-in the world funny people with secrets. Look at Tony, that first time he
+in the world--funny people with secrets. Look at Tony, that first time he
 had met him in a tobacconist's shop. Anybody would have thought he was
 a tobacconist's assistant. And Cayley. Anybody would have thought that
 Cayley was an ordinary decent sort of person. And Mark. Dash it! one
@@ -3604,8 +3604,8 @@ hiding the truth about the keys, why should he not be hiding the truth
 about Mark's entry into the office? Obviously all Cayley's evidence went
 for nothing. Some of it no doubt was true; but he was giving it, both
 truth and falsehood, with a purpose. What the purpose was Antony did not
-know as yet; to shield Mark, to shield himself, even to betray Mark
-it might be any of these. But since his evidence was given for his own
+know as yet; to shield Mark, to shield himself, even to betray
+Mark--it might be any of these. But since his evidence was given for his own
 ends, it was impossible that it could be treated as the evidence of
 an impartial and trustworthy onlooker. Such, for instance, as Elsie
 appeared to be.
@@ -3770,7 +3770,7 @@ or two, we've got to tell the police what we have found out, and then
 they can explore the passage for themselves. But I don't want to do that
 yet."
 
-"Rather not.
+"Rather not."
 
 "So we've got to carry on secretly for a bit. It's the only way." He
 smiled and added, "And it's much more fun."
@@ -3875,9 +3875,8 @@ of finding something to suit him.
 "And which is your particular fancy, Bill?" said Antony, looking from
 one shelf to another. "Or are you always playing billiards?"
 
-"I have a look at 'Badminton' sometimes," said Bill.
-
-"It's over in that corner there." He waved a hand.
+"I have a look at 'Badminton' sometimes," said Bill. "It's over in that
+corner there." He waved a hand.
 
 "Over here?" said Antony, going to it.
 
@@ -3936,14 +3935,14 @@ nowadays? Bill, when did you last read 'Paradise Lost'?"
 aloud to you?"
 
 "As a matter of fact, Betty--Miss Calladine--happens to be jolly keen on
-what's the beggar's name?"
+--what's the beggar's name?"
 
 "Never mind his name. You have said quite enough. We pass on."
 
 He moved on to the next shelf.
 
 "Biography. Oh, lots of it. I love biographies. Are you a member of the
-Johnson Club? I bet Mark is. 'Memories of Many Courts' I'm sure Mrs.
+Johnson Club? I bet Mark is. 'Memories of Many Courts'--I'm sure Mrs.
 Calladine reads that. Anyway, biographies are just as interesting as
 most novels, so why linger? We pass on." He went to the next shelf, and
 then gave a sudden whistle. "Hallo, hallo!"
@@ -3956,11 +3955,11 @@ take to them naturally?"
 
 "His father was a parson, I believe. Oh, yes, I know he was."
 
-"Ah, then these are Father's books. 'Half-Hours with the Infinite' I
+"Ah, then these are Father's books. 'Half-Hours with the Infinite'--I
 must order that from the library when I get back. 'The Lost Sheep,'
 'Jones on the Trinity,' 'The Epistles of St. Paul Explained.' Oh, Bill,
 we're amongst it. 'The Narrow Way, being Sermons by the Rev. Theodore
-Ussher' hal-LO!"
+Ussher'--hal-LO!"
 
 "What is the matter?"
 
@@ -4038,8 +4037,8 @@ merest chance discovered the secret. Naturally he felt that everybody
 else would be taking down 'The Life of Nelson' or 'Three Men in a
 Boat.' Naturally he felt that the secret would be safer if nobody ever
 interfered with that shelf at all. When you said that the books had been
-re-arranged a year ago just about the time the croquet-box came into
-existence; of course, I guessed why. So I looked about for the dullest
+re-arranged a year ago--just about the time the croquet-box came into
+existence--of course, I guessed why. So I looked about for the dullest
 books I could find, the books nobody ever read. Obviously the collection
 of sermon-books of a mid-Victorian clergyman was the shelf we wanted."
 
@@ -4421,8 +4420,8 @@ the wall of the passage.
 "Look at the sunlight on it," he said. "That's because you've left the
 door of that room open. The sun comes straight in through the windows.
 Now, I'm going to shut the door. Look! D'you see how the shadow moves
-across? That's what I saw the shadow moving across as the door shut
-behind him. Bill, go in and shut the door behind you quite naturally.
+across? That's what I saw--the shadow moving across as the door shut
+behind him. Bill, go in and shut the door behind you--quite naturally.
 Quick!"
 
 Bill went out and Antony knelt, watching eagerly.
@@ -4432,7 +4431,7 @@ Bill went out and Antony knelt, watching eagerly.
 "What happened?" said Bill, coming back.
 
 "Just what you would expect. The sunlight came, and the shadow moved
-back again all in one movement."
+back again--all in one movement."
 
 "And what happened yesterday?"
 
@@ -4477,7 +4476,7 @@ CHAPTER XIII. The Open Window
 
 
 Anthony's first thought was that Cayley had hidden something; something,
-perhaps, which he had found by the body, and but that was absurd. In the
+perhaps, which he had found by the body, but that was absurd. In the
 time at his disposal, he could have done no more than put it away in a
 drawer, where it would be much more open to discovery by Antony than if
 he had kept it in his pocket. In any case he would have removed it by
@@ -4855,7 +4854,7 @@ his head with a smile.
 
 "In case of what?"
 
-"Well in case."
+"Well, in case."
 
 Bill, had to be content with that, but he was too much excited to wonder
 what Antony meant.
@@ -4945,7 +4944,7 @@ Bill looked at him in surprise. Then a happy smile came on his face.
 
 "Of course."
 
-"Then you've saved me a lot of trouble. That's, what the bet was about."
+"Then you've saved me a lot of trouble. That's what the bet was about."
 He closed the book with a slam, put it back in its shelf, and began
 to feel for his pipe and tobacco. "I was a fool to bet with Tony," he
 added. "He always knows that sort of thing."
@@ -4978,7 +4977,7 @@ moment now it might open.
 Bill dropped into a chair and thought. Antony must be warned. Obviously.
 But how? How did one signal to anybody? By code. Morse code. Did Antony
 know it? Did Bill know it himself, if it came to that? He had picked up
-a bit in the Army not enough to send a message, of course. But a
+a bit in the Army--not enough to send a message, of course. But a
 message was impossible, anyhow; Cayley would hear him tapping it out. It
 wouldn't do to send more than a single letter. What letters did he know?
 And what letter would convey anything to Antony?.... He pulled at
@@ -5278,7 +5277,7 @@ a growth that they had not brought with them any obvious change of
 character, and Jallands even with a bathroom was still Jallands. To the
 outward view, at any rate. Inside, it was more clearly Mrs. Norbury's.
 
-"Yes Angela Norbury," murmured Bill. "Not bad-looking, is she?"
+"Yes--Angela Norbury," murmured Bill. "Not bad-looking, is she?"
 
 The girl who stood by the little white gate of Jallands was something
 more than "not bad-looking," but in this matter Bill was keeping
@@ -5381,7 +5380,7 @@ Was this another reason for wanting brother Robert out of the way?
 
 "Never liked?" said Antony, bewildered.
 
-"That cousin of his Mr. Cayley."
+"That cousin of his, Mr. Cayley."
 
 "Oh!"
 
@@ -5485,7 +5484,7 @@ Antony said that he had never had the pleasure of seeing Mr. Ablett.
 desirable in every way."
 
 She gave a deep sigh, and communed with herself for a little. Antony
-was, about to snatch the opportunity of leaving, when Mrs. Norbury began
+was about to snatch the opportunity of leaving, when Mrs. Norbury began
 again.
 
 "And then there's this scapegrace brother of his. He was perfectly frank
@@ -5686,7 +5685,7 @@ alive or dead."
 
 "Now I think that his dead body is there."
 
-"Meaning that Cayley went down and killed him afterwards after you had
+"Meaning that Cayley went down and killed him afterwards--after you had
 come, after the police had come?"
 
 "Well, that's what I shrink from, Bill. It's so horribly cold-blooded.
@@ -5855,11 +5854,11 @@ up to me."
 
 "Yes, you needn't stop to explain to me what a bearing is."
 
-"I wasn't going to. But you're lying here," he looked up "underneath
+"I wasn't going to. But you're lying here"--he looked up--"underneath
 this pine-tree. Cayley comes out in the old boat and drops his parcel
 in. You take a line from here on to the boat, and mark it off on the
 fence there. Say it's the fifth post from the end. Well, then I take a
-line from my tree we'll find one for me directly and it comes on to
+line from my tree--we'll find one for me directly--and it comes on to
 the twentieth post, say. And where the two lines meet, there shall
 the eagles be gathered together. Q.E.D. And there, I almost forgot to
 remark, will the taller eagle, Beverley by name, do his famous diving
@@ -8264,7 +8263,7 @@ would never have been found out."
 gets found out. The awkward thing from Cayley's point of view was that,
 though Mark was missing, neither he nor his body could ever be found.
 Well, that doesn't often happen with a missing man. He generally gets
-discovered in the end; a professional criminal; perhaps not--but an
+discovered in the end; a professional criminal--perhaps not--but an
 amateur like Mark! He might have kept the secret of how he killed Mark,
 but I think it would have become obvious sooner or later that he had
 killed him."
